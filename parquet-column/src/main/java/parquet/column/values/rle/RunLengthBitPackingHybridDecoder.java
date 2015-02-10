@@ -21,9 +21,7 @@ package parquet.column.values.rle;
 import static parquet.Log.DEBUG;
 
 import java.io.ByteArrayInputStream;
-import java.io.DataInputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.nio.ByteBuffer;
 
 import parquet.Log;
